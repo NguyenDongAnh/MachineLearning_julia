@@ -1,6 +1,6 @@
-Download và cài đặt julia : https://julialang.org/ <space><space>
-#Download và cài đặt jupyter-notebook
-#Khởi chạy julia cài đặt các thư viện theo cú pháp: Pkg.add("packet_name")
+# Download và cài đặt julia : https://julialang.org/ <space><space>
+# Download và cài đặt jupyter-notebook
+# Khởi chạy julia cài đặt các thư viện theo cú pháp: Pkg.add("packet_name")
 or "press ]" and "add packet_name"
 
 BenchmarkTools v0.5.0
