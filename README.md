@@ -1,8 +1,9 @@
 # Download và cài đặt julia : https://julialang.org/ <space><space>
 # Download và cài đặt jupyter-notebook
-# Khởi chạy julia cài đặt các thư viện theo cú pháp: Pkg.add("packet_name")
-or "press ]" and "add packet_name"
+# Khởi chạy julia cài đặt các thư viện theo cú pháp: Pkg.add("packet_name") or "press ]" and "add packet_name"
 
+## Usage
+```julia 
 BenchmarkTools v0.5.0
 CUDA v2.1.0
 Clustering v0.14.2
@@ -23,3 +24,4 @@ Distributed
 Printf
 Random
 Statistics
+```
