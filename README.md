@@ -1,4 +1,4 @@
-#Download và cài đặt julia : https://julialang.org/
+#Download và cài đặt julia : https://julialang.org/ \n
 #Download và cài đặt jupyter-notebook
 #Khởi chạy julia cài đặt các thư viện theo cú pháp: Pkg.add("packet_name")
 or "press ]" and "add packet_name"
