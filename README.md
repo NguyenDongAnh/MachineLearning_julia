@@ -9,7 +9,6 @@ Clustering
 Distributions
 FLoops
 Flux
-Gadfly
 IJulia (Nhân cho jupyter-notebook)
 ImageCore
 MLDatasets
