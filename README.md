@@ -10,7 +10,7 @@ Distributions
 FLoops
 Flux
 Gadfly
-IJulia
+IJulia (Nhân cho jupyter-notebook)
 ImageCore
 MLDatasets
 Optim
